@@ -1,0 +1,6 @@
+SELECT TOP (1000) [ID]
+      ,[NIM]
+      ,[Nama]
+      ,[Jurusan]
+      ,[TanggalLahir]
+  FROM [latihan1].[dbo].[MHS]
